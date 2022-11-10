@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/LevelEditor.unity
+    path: Assets/Scenes/PlayGameScene.unity
     guid: 0962acd42a774fe4dbb7c9577898711e
   - enabled: 1
     path: Assets/Scenes/Picker3D-Level1.unity

@@ -6,6 +6,7 @@ public class PlayerStopperScript : MonoBehaviour
 {
     [SerializeField] GameObject _player;
     [SerializeField] GameObject _gamePlatform;
+    
     private void OnTriggerStay(Collider collision)
     {
         if (collision.gameObject.CompareTag("Player"))
